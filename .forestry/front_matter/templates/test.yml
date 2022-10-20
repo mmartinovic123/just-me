@@ -12,3 +12,5 @@ fields:
   type: boolean
   label: Switch
   description: Kill switch
+pages:
+- content/Test.md
